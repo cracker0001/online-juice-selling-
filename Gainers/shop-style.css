@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    width: 100vw;
+    height: 100%;
+}
+.free{
+    border: 1px solid rgb(139, 202, 146);
+    width: 100%;
+    height: 20px;
+    background-color: rgb(156, 207, 156);   
+}
+.free p{
+     text-align: center;
+}
+.text5{
+    border: 1px solid white;
+}
+.text5 ul li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+
+.text5 ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding: 40px;
+}
+.text5 a {
+    text-decoration: none;
+}
+
+.text{
+    font-size: 35px;
+    color: green;
+}
+.text2{
+    font-size: 25px;
+}
+.fresh p{
+    border: 1px solid red;
+}
+.fresh img{
+    width: 300px;
+    height: 300px;
+}
+.fresh ul{
+    list-style: none;
+}
+.fresh ul li{
+    display: inline-block;
+    padding: 20px;
+}
+.price{
+    margin-left: 45px;
+}
+.price ul li{
+    display: inline-block;
+    padding: 0px 100px;
+}
+.fresh2 p{
+    border: 1px solid red;
+}
+.fresh2 img{
+    width: 300px;
+    height: 300px;
+}
+.fresh2 ul{
+    list-style: none;
+}
+.fresh2 ul li{
+    display: inline-block;
+    padding: 20px;
+}
+.price2{
+    margin-left: 45px;
+}
+.price2 ul li{
+    display: inline-block;
+    padding: 0px 100px;
+}
+.terms{
+    border: 1px solid white;
+    margin: 50px;
+    display: inline-block;
+}
+.terms ul li {
+ padding: 8px;
+ position:relative;
+ list-style: none;
+
+}
+.terms ul li a{
+    text-decoration: none;
+    color: black;
+}
+.cookie{
+        border:1px solid white;
+        display: inline-block;
+        margin-left: 80px;
+}
+.cookie ul li{
+    padding: 16px;
+    position: relative;
+    list-style: none;
+}
+.cookie ul li a{
+    text-decoration: none;
+    color: black;
+}
+.address{
+    border: 1px solid white;
+    display: inline-block;
+    margin-left: 80px;
+}
+.address ul li{
+    padding: 16px;
+    position: relative;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.contact{
+    border: 1px solid white;
+    display: inline-block;
+    margin-left: 80px;
+}
+.contact ul li{
+    padding: 18px;
+    position: relative;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.contact ul li a{
+    text-decoration: none;
+    color: black;
+}
